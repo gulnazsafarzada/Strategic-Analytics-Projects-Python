@@ -1,4 +1,4 @@
-# Strategic-Analytics-Projects-Python
+📊 Strategic Analytics Projects 
 🏆 Nobel Prize Analytics
 
 Dataset: 1901-2022-ci illər arası Nobel laureatları.
